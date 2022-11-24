@@ -1,0 +1,2 @@
+# Furuhashi-
+A dictionary
